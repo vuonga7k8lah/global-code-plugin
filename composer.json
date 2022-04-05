@@ -1,0 +1,16 @@
+{
+  "autoload": {
+    "psr-4": {
+      "VDGlobalCode\\": "src/"
+    }
+  },
+  "require-dev": {
+    "wilokecom/phpcli": "^1.36",
+    "apigen/apigen": "^4.1"
+  },
+  "require": {
+    "symfony/http-foundation": "^4.3",
+    "phpclassic/php-shopify": "^v1.1.19",
+    "spatie/data-transfer-object": "^2.8"
+  }
+}
